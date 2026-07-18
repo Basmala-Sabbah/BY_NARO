@@ -129,6 +129,11 @@ export default function Price() {
               <span>220 شيقل</span>
             </div>
 
+             <div className="price-item">
+              <span> لابكوت طبي </span>
+              <span>40 شيقل</span>
+            </div>
+
           </div>
 
           {/* منتجات البيبي */}

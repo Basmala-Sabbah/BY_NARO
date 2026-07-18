@@ -9,6 +9,8 @@ import cloth8 from "../assets/images/cloth8.jpg";
 import cloth9 from "../assets/images/cloth9.jpg";
 import cloth10 from "../assets/images/cloth10.jpg";
 import cloth11 from "../assets/images/cloth11.jpg.png";
+import cloth12 from "../assets/images/cloth12.jpg";
+import cloth13 from "../assets/images/cloth13.jpg";
 import quran1 from "../assets/images/quran1.jpg";
 import quran2 from "../assets/images/quran2.jpg";
 import quran3 from "../assets/images/quran3.jpg";
@@ -229,7 +231,19 @@ const products = [
     image:frame11,
   },
 
+   {
+    id:29,
+    name:"لابكوت طبي ",
+    category:"ملابس",
+    image:cloth12,
+  },
 
+    {
+    id:30,
+    name:" لابكوت طبي ",
+    category:"ملابس",
+    image:cloth13,
+  },
 
 
 ];
